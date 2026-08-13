@@ -1,0 +1,228 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SpinKit by Tobias Ahlin (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-08-01T09:04:59Z",
+            "owner": "tobiasahlin",
+            "repo": "SpinKit",
+            "stars": 19336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loaders.css by Connor Atherton (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-05-03T19:08:55Z",
+            "owner": "ConnorAtherton",
+            "repo": "loaders.css",
+            "stars": 10226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halogen (React spinner library) by Yuan Yan (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-28T12:38:01Z",
+            "owner": "yuanyan",
+            "repo": "halogen",
+            "stars": 1626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Load Awesome by Daniel Cardoso (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-12-14T02:01:50Z",
+            "owner": "danielcardoso",
+            "repo": "load-awesome",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ouroboros Spinner by Tom Genoni (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2013-06-15T06:38:16Z",
+            "owner": "tomgenoni",
+            "repo": "ouroboros",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Activity Indicators by Luke Vella (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-01T16:50:10Z",
+            "owner": "lukevella",
+            "repo": "react-activity",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Spinners by Oskar Gustafsson (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-03-16T19:53:52Z",
+            "owner": "oskargustafsson",
+            "repo": "CSS-spinners",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ArtWorx] xLoader by Anas Tawfeek (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-11-18T21:49:29Z",
+            "owner": "anastawfik",
+            "repo": "ArtWorx-xLoader",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "CSS Only"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Single Element CSS Spinners by Luke Haas (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-02-21T15:13:22Z",
+            "owner": "lukehaas",
+            "repo": "css-loaders",
+            "stars": 7056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Spinners by John Long (Source",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-12-30T17:24:35Z",
+            "owner": "jlong",
+            "repo": "css-spinners",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-spinners-react (React adaptation of CSS Spinners by John Long) by Adam Wanninger (Source",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-07-19T12:35:31Z",
+            "owner": "ajwann",
+            "repo": "css-spinners-react",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Single-element CSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SVG-Loaders by Sam Hambert (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-01-02T15:41:35Z",
+            "owner": "SamHerbert",
+            "repo": "SVG-Loaders",
+            "stars": 7027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svg-loaders-react (React adaptation of SVG-Loaders) by Adam Wanninger (Source",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:47:25Z",
+            "owner": "ajwann",
+            "repo": "svg-loaders-react",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tumblr Style Cog Spinners by Pasquale Vitiello (Demo",
+          "description": ") (Source)",
+          "children": []
+        }
+      ],
+      "title": "SVG"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:16.790Z",
+    "original_repository": "yangshun/awesome-spinners",
+    "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
+    "enhanced_repository": "enhansome/enhansome-spinners",
+    "enhanced_repository_description": null,
+    "title": "Awesome Spinners with stars"
+  }
+}
