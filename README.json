@@ -14,7 +14,7 @@
             "last_commit": "2020-08-01T09:04:59Z",
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19336
+            "stars": 19335
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2023-05-03T19:08:55Z",
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10226
+            "stars": 10224
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2016-12-14T02:01:50Z",
             "owner": "danielcardoso",
             "repo": "load-awesome",
-            "stars": 1021
+            "stars": 1019
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-02-21T15:13:22Z",
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7056
+            "stars": 7054
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-01-02T15:41:35Z",
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7027
+            "stars": 7026
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:41:55.195Z",
+    "last_updated": "2026-08-14T06:39:49.496Z",
     "original_repository": "yangshun/awesome-spinners",
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
     "enhanced_repository": "enhansome/enhansome-spinners",
