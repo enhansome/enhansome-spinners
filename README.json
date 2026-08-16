@@ -14,7 +14,7 @@
             "last_commit": "2020-08-01T09:04:59Z",
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19336
+            "stars": 19334
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2016-12-14T02:01:50Z",
             "owner": "danielcardoso",
             "repo": "load-awesome",
-            "stars": 1019
+            "stars": 1018
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:37:12.626Z",
+    "last_updated": "2026-08-16T05:39:15.097Z",
     "original_repository": "yangshun/awesome-spinners",
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
     "enhanced_repository": "enhansome/enhansome-spinners",
