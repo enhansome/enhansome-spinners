@@ -42,7 +42,7 @@
             "last_commit": "2025-08-28T12:38:01Z",
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1626
+            "stars": 1620
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-02-21T15:13:22Z",
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7054
+            "stars": 7053
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:39:15.097Z",
+    "last_updated": "2026-08-17T05:47:32.420Z",
     "original_repository": "yangshun/awesome-spinners",
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
     "enhanced_repository": "enhansome/enhansome-spinners",
