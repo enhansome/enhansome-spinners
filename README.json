@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15150300,
             "language": "CSS",
             "last_commit": "2020-08-01T09:04:59Z",
             "owner": "tobiasahlin",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31052073,
             "language": "CSS",
             "last_commit": "2023-05-03T19:08:55Z",
             "owner": "ConnorAtherton",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32871240,
             "language": "JavaScript",
             "last_commit": "2025-08-28T12:38:01Z",
             "owner": "yuanyan",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35186945,
             "language": "CSS",
             "last_commit": "2016-12-14T02:01:50Z",
             "owner": "danielcardoso",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7847738,
             "language": "Ruby",
             "last_commit": "2013-06-15T06:38:16Z",
             "owner": "tomgenoni",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47495251,
             "language": "TypeScript",
             "last_commit": "2023-03-01T16:50:10Z",
             "owner": "lukevella",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29496256,
             "language": "CSS",
             "last_commit": "2015-03-16T19:53:52Z",
             "owner": "oskargustafsson",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33926589,
             "language": "CSS",
             "last_commit": "2016-11-18T21:49:29Z",
             "owner": "anastawfik",
@@ -119,7 +127,7 @@
       "title": "CSS Only"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19510544,
             "language": "CSS",
             "last_commit": "2025-02-21T15:13:22Z",
             "owner": "lukehaas",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9971036,
             "language": "CSS",
             "last_commit": "2019-12-30T17:24:35Z",
             "owner": "jlong",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216674691,
             "language": "CSS",
             "last_commit": "2025-07-19T12:35:31Z",
             "owner": "ajwann",
@@ -167,7 +178,7 @@
       "title": "Single-element CSS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26890199,
             "language": "HTML",
             "last_commit": "2025-01-02T15:41:35Z",
             "owner": "SamHerbert",
@@ -190,36 +202,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167743678,
             "language": "JavaScript",
             "last_commit": "2026-01-21T23:47:25Z",
             "owner": "ajwann",
             "repo": "svg-loaders-react",
             "stars": 110
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Tumblr Style Cog Spinners by Pasquale Vitiello (Demo",
-          "description": ") (Source)",
-          "children": []
         }
       ],
       "title": "SVG"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:43:37.880Z",
+    "last_updated": "2026-08-19T12:52:41.442Z",
     "original_repository": "yangshun/awesome-spinners",
+    "original_repository_id": 49882982,
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
     "enhanced_repository": "enhansome/enhansome-spinners",
     "enhanced_repository_description": null,
