@@ -212,10 +212,52 @@
         }
       ],
       "title": "SVG"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sonic.js by James Padolsey (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2245350,
+            "language": "HTML",
+            "last_commit": "2016-11-03T21:36:22Z",
+            "owner": "padolsey",
+            "repo": "sonic.js",
+            "stars": 820
+          }
+        }
+      ],
+      "title": "Canvas"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spin.js by Felix Gnass (Demo",
+          "description": ") (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2214953,
+            "language": "CSS",
+            "last_commit": "2024-07-19T20:53:58Z",
+            "owner": "fgnass",
+            "repo": "spin.js",
+            "stars": 9245
+          }
+        }
+      ],
+      "title": "Build Your Own Spinner"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:50:35.394Z",
+    "last_updated": "2026-08-24T14:09:37.767Z",
     "original_repository": "yangshun/awesome-spinners",
     "original_repository_id": 49882982,
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",

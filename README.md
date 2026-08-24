@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,363 | 🐛 106 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,512 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ## Table of Contents
 
@@ -72,14 +72,14 @@
 
 ## Canvas
 
-* Canvas Sparkly Circle Loader by Jack Rugile ([Demo](https://codepen.io/jackrugile/pen/JAKbg))
 * Sonic.js by James Padolsey ([Demo](http://padolsey.github.io/sonic-creator/#default)) ([Source](https://github.com/padolsey/sonic.js) ⭐ 820 | 🐛 3 | 🌐 HTML | 📅 2016-11-03)
+* Canvas Sparkly Circle Loader by Jack Rugile ([Demo](https://codepen.io/jackrugile/pen/JAKbg))
 
 ## Build Your Own Spinner
 
+* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,245 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
 * Loading.io ([Demo](https://loading.io/))
 * Spin Cycle - CSS-powered spinner from any inline SVG by Chris Hart ([Demo + Source](https://codepen.io/personable/pen/jPMXPv))
-* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,245 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
 
 ## Other Collections
 
