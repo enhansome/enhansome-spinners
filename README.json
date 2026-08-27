@@ -15,7 +15,7 @@
             "last_commit": "2020-08-01T09:04:59Z",
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19332
+            "stars": 19333
           }
         },
         {
@@ -257,9 +257,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:47:42.447Z",
-    "original_repository": "yangshun/awesome-spinners",
-    "original_repository_id": 49882982,
+    "last_updated": "2026-08-27T12:06:03.062Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 49882982,
+      "language": "JavaScript",
+      "last_commit": "2022-02-07T09:49:49Z",
+      "owner": "yangshun",
+      "repo": "awesome-spinners",
+      "stars": 1415
+    },
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
     "enhanced_repository": "enhansome/enhansome-spinners",
     "enhanced_repository_description": null,
