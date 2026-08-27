@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,432 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@
 
 ## Single-element CSS
 
-* Single Element CSS Spinners by Luke Haas ([Demo](https://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders) ⭐ 7,053 | 🐛 21 | 🌐 CSS | 📅 2025-02-21)
+* Single Element CSS Spinners by Luke Haas ([Demo](https://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders) ⭐ 7,052 | 🐛 21 | 🌐 CSS | 📅 2025-02-21)
 * CSS Spinners by John Long ([Source](https://github.com/jlong/css-spinners) ⭐ 918 | 🐛 7 | 🌐 CSS | 📅 2019-12-30)
 * css-spinners-react (React adaptation of CSS Spinners by John Long) by Adam Wanninger ([Source](https://github.com/ajwann/css-spinners-react) ⭐ 10 | 🐛 18 | 🌐 CSS | 📅 2025-07-19)
 * Loaders Kit by Viduthalai Mani ([Demo](http://cssdeck.com/labs/loaderskit))
