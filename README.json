@@ -16,7 +16,8 @@
             "owner": "tobiasahlin",
             "repo": "SpinKit",
             "stars": 19333
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2023-05-03T19:08:55Z",
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10224
-          }
+            "stars": 10223
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "yuanyan",
             "repo": "halogen",
             "stars": 1620
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "danielcardoso",
             "repo": "load-awesome",
             "stars": 1018
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "tomgenoni",
             "repo": "ouroboros",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "lukevella",
             "repo": "react-activity",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "oskargustafsson",
             "repo": "CSS-spinners",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "anastawfik",
             "repo": "ArtWorx-xLoader",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         }
       ],
       "title": "CSS Only"
@@ -142,7 +150,8 @@
             "owner": "lukehaas",
             "repo": "css-loaders",
             "stars": 7052
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "jlong",
             "repo": "css-spinners",
             "stars": 918
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ajwann",
             "repo": "css-spinners-react",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         }
       ],
       "title": "Single-element CSS"
@@ -193,7 +204,8 @@
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
             "stars": 7026
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "ajwann",
             "repo": "svg-loaders-react",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         }
       ],
       "title": "SVG"
@@ -229,7 +242,8 @@
             "owner": "padolsey",
             "repo": "sonic.js",
             "stars": 820
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         }
       ],
       "title": "Canvas"
@@ -250,14 +264,15 @@
             "owner": "fgnass",
             "repo": "spin.js",
             "stars": 9245
-          }
+          },
+          "first_seen": "2026-08-28T17:24:56.516Z"
         }
       ],
       "title": "Build Your Own Spinner"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:28:25.144Z",
+    "last_updated": "2026-08-28T17:24:56.516Z",
     "original_repository_info": {
       "archived": false,
       "id": 49882982,
@@ -265,7 +280,7 @@
       "last_commit": "2022-02-07T09:49:49Z",
       "owner": "yangshun",
       "repo": "awesome-spinners",
-      "stars": 1415
+      "stars": 1416
     },
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
     "enhanced_repository": "enhansome/enhansome-spinners",
