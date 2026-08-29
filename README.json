@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of loading indicators animated with CSS",
+            "homepage": "http://tobiasahlin.com/spinkit/",
             "id": 15150300,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-08-01T09:04:59Z",
+            "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19333
+            "stars": 19333,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delightful, performance-focused pure css loading animations.",
+            "homepage": "https://connoratherton.com/loaders",
             "id": 31052073,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-05-03T19:08:55Z",
+            "open_issues": 16,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10223
+            "stars": 10223,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of loading spinners with React.js",
+            "homepage": "https://yuanyan.github.io/halogen",
             "id": 32871240,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-28T12:38:01Z",
+            "open_issues": 22,
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1620
+            "stars": 1620,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome collection of — Pure CSS — Loaders and Spinners",
+            "homepage": "http://github.danielcardoso.net/load-awesome/",
             "id": 35186945,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-12-14T02:01:50Z",
+            "open_issues": 12,
             "owner": "danielcardoso",
             "repo": "load-awesome",
-            "stars": 1018
+            "stars": 1018,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CSS spinner for modern browsers, built with Sass.",
+            "homepage": "http://atomeye.com/projects/sass-css-spinner.html",
             "id": 7847738,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2013-06-15T06:38:16Z",
+            "open_issues": 3,
             "owner": "tomgenoni",
             "repo": "ouroboros",
-            "stars": 396
+            "stars": 396,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of activity indicators in the form of React components.",
+            "homepage": "https://react-activity.lukevella.com",
             "id": 47495251,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-01T16:50:10Z",
+            "open_issues": 16,
             "owner": "lukevella",
             "repo": "react-activity",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -106,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gallery of pure CSS spinners and loading indicators",
+            "homepage": null,
             "id": 29496256,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2015-03-16T19:53:52Z",
+            "open_issues": 0,
             "owner": "oskargustafsson",
             "repo": "CSS-spinners",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -122,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure css cross-browser loading animations.",
+            "homepage": null,
             "id": 33926589,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-11-18T21:49:29Z",
+            "open_issues": 0,
             "owner": "anastawfik",
             "repo": "ArtWorx-xLoader",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         }
@@ -144,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of loading spinners animated with CSS",
+            "homepage": null,
             "id": 19510544,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-02-21T15:13:22Z",
+            "open_issues": 21,
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7052
+            "stars": 7052,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -160,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple CSS spinners and throbbers made with CSS and minimal HTML markup.",
+            "homepage": "http://www.css-spinners.com",
             "id": 9971036,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-12-30T17:24:35Z",
+            "open_issues": 7,
             "owner": "jlong",
             "repo": "css-spinners",
-            "stars": 918
+            "stars": 918,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -176,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React adaptation of John W. Long's (jlong) css-spinners library",
+            "homepage": "https://www.npmjs.com/package/css-spinners-react",
             "id": 216674691,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-19T12:35:31Z",
+            "open_issues": 18,
             "owner": "ajwann",
             "repo": "css-spinners-react",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         }
@@ -198,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loading icons and small animations built with pure SVG.",
+            "homepage": "http://samherbert.net/svg-loaders",
             "id": 26890199,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-01-02T15:41:35Z",
+            "open_issues": 15,
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7026
+            "stars": 7026,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         },
@@ -214,12 +274,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React adaptation of the SVG Loaders library by Sam Herbert",
+            "homepage": "https://www.npmjs.com/package/svg-loaders-react",
             "id": 167743678,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-21T23:47:25Z",
+            "open_issues": 6,
             "owner": "ajwann",
             "repo": "svg-loaders-react",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "loading",
+              "loading-animations",
+              "loading-indicator",
+              "react",
+              "react-component",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         }
@@ -236,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":loop: Create loopy loading animations",
+            "homepage": "http://padolsey.github.io/sonic-creator/#default",
             "id": 2245350,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2016-11-03T21:36:22Z",
+            "open_issues": 3,
             "owner": "padolsey",
             "repo": "sonic.js",
-            "stars": 820
+            "stars": 820,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         }
@@ -258,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A spinning activity indicator",
+            "homepage": "http://spin.js.org",
             "id": 2214953,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-07-19T20:53:58Z",
+            "open_issues": 15,
             "owner": "fgnass",
             "repo": "spin.js",
-            "stars": 9245
+            "stars": 9245,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
         }
@@ -272,15 +354,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:24:56.516Z",
+    "last_updated": "2026-08-29T04:39:48.237Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💫 A curated collection of dazzling web spinners",
+      "homepage": null,
       "id": 49882982,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2022-02-07T09:49:49Z",
+      "open_issues": 2,
       "owner": "yangshun",
       "repo": "awesome-spinners",
-      "stars": 1416
+      "stars": 1416,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "css",
+        "css-spinners",
+        "spinners"
+      ]
     },
     "original_repository_sha": "1fa25305939dfe679de7f9130d819580b6dd49fa",
     "enhanced_repository": "enhansome/enhansome-spinners",
