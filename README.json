@@ -40,7 +40,7 @@
             "open_issues": 16,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10221,
+            "stars": 10223,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -61,7 +61,7 @@
             "open_issues": 22,
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1619,
+            "stars": 1618,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:00:24.023Z",
+    "last_updated": "2026-09-06T09:23:01.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
