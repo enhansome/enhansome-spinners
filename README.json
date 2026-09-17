@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19323,
+            "stars": 19324,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -40,7 +40,7 @@
             "open_issues": 16,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10224,
+            "stars": 10225,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -82,7 +82,7 @@
             "open_issues": 12,
             "owner": "danielcardoso",
             "repo": "load-awesome",
-            "stars": 1018,
+            "stars": 1019,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -193,7 +193,7 @@
             "open_issues": 21,
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7050,
+            "stars": 7051,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -262,7 +262,7 @@
             "open_issues": 15,
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7028,
+            "stars": 7027,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -344,7 +344,7 @@
             "open_issues": 15,
             "owner": "fgnass",
             "repo": "spin.js",
-            "stars": 9243,
+            "stars": 9244,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:53:33.315Z",
+    "last_updated": "2026-09-17T09:57:18.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
@@ -366,7 +366,7 @@
       "open_issues": 2,
       "owner": "yangshun",
       "repo": "awesome-spinners",
-      "stars": 1418,
+      "stars": 1419,
       "topics": [
         "awesome",
         "awesome-list",
