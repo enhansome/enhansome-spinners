@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,402 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,782 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Table of Contents
 
@@ -98,4 +98,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
