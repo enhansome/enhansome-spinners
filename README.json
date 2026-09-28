@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19326,
+            "stars": 19325,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -37,7 +37,7 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2023-05-03T19:08:55Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
             "stars": 10225,
@@ -262,7 +262,7 @@
             "open_issues": 15,
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7029,
+            "stars": 7031,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:31:38.719Z",
+    "last_updated": "2026-09-28T11:39:03.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
