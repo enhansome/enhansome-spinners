@@ -61,7 +61,7 @@
             "open_issues": 21,
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1616,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -344,7 +344,7 @@
             "open_issues": 15,
             "owner": "fgnass",
             "repo": "spin.js",
-            "stars": 9241,
+            "stars": 9240,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:35:05.548Z",
+    "last_updated": "2026-10-02T11:04:24.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
