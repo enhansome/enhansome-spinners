@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "SpinKit by Tobias Ahlin (Demo",
-          "description": ") (Source)",
+          "description": "tobiasahlin/SpinKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Loaders.css by Connor Atherton (Demo",
-          "description": ") (Source)",
+          "description": "ConnorAtherton/loaders.css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Halogen (React spinner library) by Yuan Yan (Demo",
-          "description": ") (Source)",
+          "description": "yuanyan/halogen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "Load Awesome by Daniel Cardoso (Demo",
-          "description": ") (Source)",
+          "description": "danielcardoso/load-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Ouroboros Spinner by Tom Genoni (Demo",
-          "description": ") (Source)",
+          "description": "tomgenoni/ouroboros",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "React Activity Indicators by Luke Vella (Demo",
-          "description": ") (Source)",
+          "description": "lukevella/react-activity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "CSS Spinners by Oskar Gustafsson (Demo",
-          "description": ") (Source)",
+          "description": "oskargustafsson/CSS-spinners",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -153,7 +153,7 @@
         {
           "node_type": "item",
           "title": "[ArtWorx] xLoader by Anas Tawfeek (Demo",
-          "description": ") (Source)",
+          "description": "anastawfik/ArtWorx-xLoader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "Single Element CSS Spinners by Luke Haas (Demo",
-          "description": ") (Source)",
+          "description": "lukehaas/css-loaders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "CSS Spinners by John Long (Source",
-          "description": ")",
+          "description": "jlong/css-spinners",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "css-spinners-react (React adaptation of CSS Spinners by John Long) by Adam Wanninger (Source",
-          "description": ")",
+          "description": "ajwann/css-spinners-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "SVG-Loaders by Sam Hambert (Demo",
-          "description": ") (Source)",
+          "description": "SamHerbert/SVG-Loaders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "svg-loaders-react (React adaptation of SVG-Loaders) by Adam Wanninger (Source",
-          "description": ")",
+          "description": "ajwann/svg-loaders-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "Sonic.js by James Padolsey (Demo",
-          "description": ") (Source)",
+          "description": "padolsey/sonic.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -331,7 +331,7 @@
         {
           "node_type": "item",
           "title": "Spin.js by Felix Gnass (Demo",
-          "description": ") (Source)",
+          "description": "fgnass/spin.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -344,7 +344,7 @@
             "open_issues": 15,
             "owner": "fgnass",
             "repo": "spin.js",
-            "stars": 9240,
+            "stars": 9239,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:04:24.384Z",
+    "last_updated": "2026-10-03T05:10:48.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
