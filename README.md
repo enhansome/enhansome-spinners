@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,411 | 🐛 107 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,916 | 🐛 107 | 📅 2026-09-02 list thing.*
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 ## CSS Only
 
 * SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit) ⭐ 19,325 | 🐛 11 | 🌐 CSS | 📅 2020-08-01)
-* Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css) ⭐ 10,225 | 🐛 15 | 🌐 CSS | 📅 2023-05-03)
+* Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css) ⭐ 10,224 | 🐛 15 | 🌐 CSS | 📅 2023-05-03)
 * Halogen (React spinner library) by Yuan Yan ([Demo](http://yuanyan.github.io/halogen/)) ([Source](https://github.com/yuanyan/halogen) ⭐ 1,615 | 🐛 21 | 🌐 JavaScript | 📅 2025-08-28)
 * Load Awesome by Daniel Cardoso ([Demo](http://github.danielcardoso.net/load-awesome/animations.html)) ([Source](https://github.com/danielcardoso/load-awesome) ⭐ 1,021 | 🐛 12 | 🌐 CSS | 📅 2016-12-14)
 * Ouroboros Spinner by Tom Genoni ([Demo](http://www.atomeye.com/writing/ouroboros.html)) ([Source](https://github.com/tomgenoni/ouroboros) ⚠️ Archived)
@@ -39,7 +39,7 @@
 ## Single-element CSS
 
 * Single Element CSS Spinners by Luke Haas ([Demo](https://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders) ⭐ 7,051 | 🐛 21 | 🌐 CSS | 📅 2025-02-21)
-* CSS Spinners by John Long ([Source](https://github.com/jlong/css-spinners) ⭐ 918 | 🐛 7 | 🌐 CSS | 📅 2019-12-30)
+* CSS Spinners by John Long ([Source](https://github.com/jlong/css-spinners) ⭐ 915 | 🐛 7 | 🌐 CSS | 📅 2019-12-30)
 * css-spinners-react (React adaptation of CSS Spinners by John Long) by Adam Wanninger ([Source](https://github.com/ajwann/css-spinners-react) ⭐ 10 | 🐛 18 | 🌐 CSS | 📅 2025-07-19)
 * Loaders Kit by Viduthalai Mani ([Demo](http://cssdeck.com/labs/loaderskit))
 * CSS Loading Spinners by Harold Soto ([Demo & Source](https://codepen.io/bernethe/pen/dorozd))
@@ -77,7 +77,7 @@
 
 ## Build Your Own Spinner
 
-* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,239 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
+* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,238 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
 * Loading.io ([Demo](https://loading.io/))
 * Spin Cycle - CSS-powered spinner from any inline SVG by Chris Hart ([Demo + Source](https://codepen.io/personable/pen/jPMXPv))
 
@@ -98,4 +98,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
