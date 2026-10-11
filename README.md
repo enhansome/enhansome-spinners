@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,000 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,453 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@
 
 ## SVG
 
-* SVG-Loaders by Sam Hambert ([Demo](http://samherbert.net/svg-loaders/)) ([Source](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,031 | 🐛 15 | 🌐 HTML | 📅 2025-01-02)
+* SVG-Loaders by Sam Hambert ([Demo](http://samherbert.net/svg-loaders/)) ([Source](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,032 | 🐛 15 | 🌐 HTML | 📅 2025-01-02)
 * svg-loaders-react (React adaptation of SVG-Loaders) by Adam Wanninger ([Source](https://github.com/ajwann/svg-loaders-react) ⭐ 110 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-21)
 * Tumblr Style Cog Spinners by Pasquale Vitiello ([Demo](http://pasqualevitiello.github.io/Tumblr-Style-Cog-Spinners/)) ([Source](https://github.com/pasqualevitiello/Tumblr-Style-Cog-Spinners/))
 * SVG Loader Animation by Nikhil Krishnan ([Demo + Source](https://codepen.io/nikhil8krishnan/pen/rVoXJa))
@@ -72,12 +72,12 @@
 
 ## Canvas
 
-* Sonic.js by James Padolsey ([Demo](http://padolsey.github.io/sonic-creator/#default)) ([Source](https://github.com/padolsey/sonic.js) ⭐ 819 | 🐛 3 | 🌐 HTML | 📅 2016-11-03)
+* Sonic.js by James Padolsey ([Demo](http://padolsey.github.io/sonic-creator/#default)) ([Source](https://github.com/padolsey/sonic.js) ⭐ 817 | 🐛 3 | 🌐 HTML | 📅 2016-11-03)
 * Canvas Sparkly Circle Loader by Jack Rugile ([Demo](https://codepen.io/jackrugile/pen/JAKbg))
 
 ## Build Your Own Spinner
 
-* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,237 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
+* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,236 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
 * Loading.io ([Demo](https://loading.io/))
 * Spin Cycle - CSS-powered spinner from any inline SVG by Chris Hart ([Demo + Source](https://codepen.io/personable/pen/jPMXPv))
 
@@ -98,4 +98,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

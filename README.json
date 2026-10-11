@@ -262,7 +262,7 @@
             "open_issues": 15,
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7031,
+            "stars": 7032,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -317,7 +317,7 @@
             "open_issues": 3,
             "owner": "padolsey",
             "repo": "sonic.js",
-            "stars": 819,
+            "stars": 817,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -344,7 +344,7 @@
             "open_issues": 15,
             "owner": "fgnass",
             "repo": "spin.js",
-            "stars": 9237,
+            "stars": 9236,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:08:51.254Z",
+    "last_updated": "2026-10-11T11:22:25.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
