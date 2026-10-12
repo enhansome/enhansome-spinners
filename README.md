@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,453 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,938 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Table of Contents
 
@@ -16,9 +16,9 @@
 
 ## CSS Only
 
-* SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit) ⭐ 19,323 | 🐛 11 | 🌐 CSS | 📅 2020-08-01)
+* SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit) ⭐ 19,321 | 🐛 11 | 🌐 CSS | 📅 2020-08-01)
 * Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css) ⭐ 10,225 | 🐛 15 | 🌐 CSS | 📅 2023-05-03)
-* Halogen (React spinner library) by Yuan Yan ([Demo](http://yuanyan.github.io/halogen/)) ([Source](https://github.com/yuanyan/halogen) ⭐ 1,616 | 🐛 21 | 🌐 JavaScript | 📅 2025-08-28)
+* Halogen (React spinner library) by Yuan Yan ([Demo](http://yuanyan.github.io/halogen/)) ([Source](https://github.com/yuanyan/halogen) ⭐ 1,615 | 🐛 21 | 🌐 JavaScript | 📅 2025-08-28)
 * Load Awesome by Daniel Cardoso ([Demo](http://github.danielcardoso.net/load-awesome/animations.html)) ([Source](https://github.com/danielcardoso/load-awesome) ⭐ 1,021 | 🐛 12 | 🌐 CSS | 📅 2016-12-14)
 * Ouroboros Spinner by Tom Genoni ([Demo](http://www.atomeye.com/writing/ouroboros.html)) ([Source](https://github.com/tomgenoni/ouroboros) ⚠️ Archived)
 * React Activity Indicators by Luke Vella ([Demo](https://react-activity.lukevella.com)) ([Source](https://github.com/lukevella/react-activity) ⭐ 191 | 🐛 16 | 🌐 TypeScript | 📅 2023-03-01)
@@ -98,4 +98,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
