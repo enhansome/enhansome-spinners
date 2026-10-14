@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19321,
+            "stars": 19319,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -58,10 +58,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-08-28T12:38:01Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1615,
+            "stars": 1616,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -82,7 +82,7 @@
             "open_issues": 12,
             "owner": "danielcardoso",
             "repo": "load-awesome",
-            "stars": 1021,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:40:18.025Z",
+    "last_updated": "2026-10-14T10:07:41.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
