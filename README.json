@@ -40,7 +40,7 @@
             "open_issues": 15,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10221,
+            "stars": 10220,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -262,7 +262,7 @@
             "open_issues": 15,
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7028,
+            "stars": 7029,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -279,8 +279,8 @@
             "id": 167743678,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-01-21T23:47:25Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-24T06:27:13Z",
+            "open_issues": 5,
             "owner": "ajwann",
             "repo": "svg-loaders-react",
             "stars": 110,
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:59:46.876Z",
+    "last_updated": "2026-10-24T09:28:40.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
