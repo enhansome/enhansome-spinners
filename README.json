@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19314,
+            "stars": 19312,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T11:01:20.927Z",
+    "last_updated": "2026-10-27T10:29:23.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
@@ -366,7 +366,7 @@
       "open_issues": 2,
       "owner": "yangshun",
       "repo": "awesome-spinners",
-      "stars": 1423,
+      "stars": 1424,
       "topics": [
         "awesome",
         "awesome-list",
