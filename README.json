@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19312,
+            "stars": 19311,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -40,7 +40,7 @@
             "open_issues": 15,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10222,
+            "stars": 10221,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -61,7 +61,7 @@
             "open_issues": 22,
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1617,
+            "stars": 1618,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -193,7 +193,7 @@
             "open_issues": 21,
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7051,
+            "stars": 7047,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -262,7 +262,7 @@
             "open_issues": 15,
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7031,
+            "stars": 7030,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:29:23.317Z",
+    "last_updated": "2026-10-28T11:17:46.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
