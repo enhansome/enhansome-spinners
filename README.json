@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19308,
+            "stars": 19306,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -61,7 +61,7 @@
             "open_issues": 22,
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1618,
+            "stars": 1617,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -124,7 +124,7 @@
             "open_issues": 16,
             "owner": "lukevella",
             "repo": "react-activity",
-            "stars": 191,
+            "stars": 190,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -214,7 +214,7 @@
             "open_issues": 7,
             "owner": "jlong",
             "repo": "css-spinners",
-            "stars": 915,
+            "stars": 914,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:28:43.633Z",
+    "last_updated": "2026-10-30T11:21:06.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
