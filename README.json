@@ -61,7 +61,7 @@
             "open_issues": 22,
             "owner": "yuanyan",
             "repo": "halogen",
-            "stars": 1617,
+            "stars": 1618,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -279,7 +279,7 @@
             "id": 167743678,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T19:02:08Z",
+            "last_commit": "2026-10-31T11:29:55Z",
             "open_issues": 7,
             "owner": "ajwann",
             "repo": "svg-loaders-react",
@@ -344,7 +344,7 @@
             "open_issues": 15,
             "owner": "fgnass",
             "repo": "spin.js",
-            "stars": 9236,
+            "stars": 9235,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:53:21.435Z",
+    "last_updated": "2026-11-01T11:47:46.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
