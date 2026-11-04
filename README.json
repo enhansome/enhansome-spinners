@@ -40,7 +40,7 @@
             "open_issues": 15,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10220,
+            "stars": 10219,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -262,7 +262,7 @@
             "open_issues": 15,
             "owner": "SamHerbert",
             "repo": "SVG-Loaders",
-            "stars": 7029,
+            "stars": 7028,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:44:28.806Z",
+    "last_updated": "2026-11-04T12:56:54.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
