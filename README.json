@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19305,
+            "stars": 19304,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -193,7 +193,7 @@
             "open_issues": 21,
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7048,
+            "stars": 7047,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:56:54.471Z",
+    "last_updated": "2026-11-05T13:07:52.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",

@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,662 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,428 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 ## CSS Only
 
-* SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit) ⭐ 19,305 | 🐛 11 | 🌐 CSS | 📅 2020-08-01)
+* SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit) ⭐ 19,304 | 🐛 11 | 🌐 CSS | 📅 2020-08-01)
 * Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css) ⭐ 10,219 | 🐛 15 | 🌐 CSS | 📅 2023-05-03)
 * Halogen (React spinner library) by Yuan Yan ([Demo](http://yuanyan.github.io/halogen/)) ([Source](https://github.com/yuanyan/halogen) ⭐ 1,618 | 🐛 22 | 🌐 JavaScript | 📅 2025-08-28)
 * Load Awesome by Daniel Cardoso ([Demo](http://github.danielcardoso.net/load-awesome/animations.html)) ([Source](https://github.com/danielcardoso/load-awesome) ⭐ 1,021 | 🐛 12 | 🌐 CSS | 📅 2016-12-14)
@@ -38,7 +38,7 @@
 
 ## Single-element CSS
 
-* Single Element CSS Spinners by Luke Haas ([Demo](https://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders) ⭐ 7,048 | 🐛 21 | 🌐 CSS | 📅 2025-02-21)
+* Single Element CSS Spinners by Luke Haas ([Demo](https://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders) ⭐ 7,047 | 🐛 21 | 🌐 CSS | 📅 2025-02-21)
 * CSS Spinners by John Long ([Source](https://github.com/jlong/css-spinners) ⭐ 914 | 🐛 7 | 🌐 CSS | 📅 2019-12-30)
 * css-spinners-react (React adaptation of CSS Spinners by John Long) by Adam Wanninger ([Source](https://github.com/ajwann/css-spinners-react) ⭐ 10 | 🐛 18 | 🌐 CSS | 📅 2025-07-19)
 * Loaders Kit by Viduthalai Mani ([Demo](http://cssdeck.com/labs/loaderskit))
@@ -98,4 +98,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
