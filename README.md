@@ -2,7 +2,7 @@
 
 > A curated collection of dazzling web spinners.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,156 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,678 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 ## CSS Only
 
-* SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit) ⭐ 19,307 | 🐛 11 | 🌐 CSS | 📅 2020-08-01)
+* SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit) ⭐ 19,309 | 🐛 11 | 🌐 CSS | 📅 2020-08-01)
 * Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css) ⭐ 10,220 | 🐛 15 | 🌐 CSS | 📅 2023-05-03)
 * Halogen (React spinner library) by Yuan Yan ([Demo](http://yuanyan.github.io/halogen/)) ([Source](https://github.com/yuanyan/halogen) ⭐ 1,617 | 🐛 22 | 🌐 JavaScript | 📅 2025-08-28)
 * Load Awesome by Daniel Cardoso ([Demo](http://github.danielcardoso.net/load-awesome/animations.html)) ([Source](https://github.com/danielcardoso/load-awesome) ⭐ 1,020 | 🐛 12 | 🌐 CSS | 📅 2016-12-14)
@@ -72,12 +72,12 @@
 
 ## Canvas
 
-* Sonic.js by James Padolsey ([Demo](http://padolsey.github.io/sonic-creator/#default)) ([Source](https://github.com/padolsey/sonic.js) ⭐ 817 | 🐛 3 | 🌐 HTML | 📅 2016-11-03)
+* Sonic.js by James Padolsey ([Demo](http://padolsey.github.io/sonic-creator/#default)) ([Source](https://github.com/padolsey/sonic.js) ⭐ 818 | 🐛 3 | 🌐 HTML | 📅 2016-11-03)
 * Canvas Sparkly Circle Loader by Jack Rugile ([Demo](https://codepen.io/jackrugile/pen/JAKbg))
 
 ## Build Your Own Spinner
 
-* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,237 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
+* Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js) ⭐ 9,236 | 🐛 15 | 🌐 CSS | 📅 2024-07-19)
 * Loading.io ([Demo](https://loading.io/))
 * Spin Cycle - CSS-powered spinner from any inline SVG by Chris Hart ([Demo + Source](https://codepen.io/personable/pen/jPMXPv))
 
@@ -98,4 +98,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
