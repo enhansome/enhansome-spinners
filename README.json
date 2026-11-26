@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19307,
+            "stars": 19308,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -40,7 +40,7 @@
             "open_issues": 15,
             "owner": "ConnorAtherton",
             "repo": "loaders.css",
-            "stars": 10218,
+            "stars": 10219,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -283,7 +283,7 @@
             "open_issues": 7,
             "owner": "ajwann",
             "repo": "svg-loaders-react",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "loading",
               "loading-animations",
@@ -344,7 +344,7 @@
             "open_issues": 15,
             "owner": "fgnass",
             "repo": "spin.js",
-            "stars": 9233,
+            "stars": 9232,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.516Z"
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:31:26.021Z",
+    "last_updated": "2026-11-26T15:05:48.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated collection of dazzling web spinners",
